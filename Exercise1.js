@@ -21,7 +21,7 @@ var bankbalance = 950;
 var totalspend = 0;
 var thisphone = 0;
 
-// program
+// program comment
 
 while (totalspend <= bankbalance) {
 
